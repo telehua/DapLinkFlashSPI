@@ -1,0 +1,13 @@
+{
+  "Target": [
+    {"Name": "Default", "Manufacturer": "Unknow", "ChipSize": 16777216, "PageSize": 256, "AddrExtCmd": 0, "AddrSize": 3, "ReadCmd": 3, "PageProgramCmd": 2, "WriteEnableCmd": 6, "WriteDisableCmd": 4, "ChipEraseCmd": 96, "ReadStatusCmd": 5, "BusyBit": 0},
+    {"Name": "W25Q40", "Manufacturer": "Winbond", "ChipSize": 524288, "PageSize": 256, "AddrExtCmd": 0, "AddrSize": 3, "ReadCmd": 3, "PageProgramCmd": 2, "WriteEnableCmd": 6, "WriteDisableCmd": 4, "ChipEraseCmd": 96, "ReadStatusCmd": 5, "BusyBit": 0},
+    {"Name": "W25Q80", "Manufacturer": "Winbond", "ChipSize": 1048576, "PageSize": 256, "AddrExtCmd": 0, "AddrSize": 3, "ReadCmd": 3, "PageProgramCmd": 2, "WriteEnableCmd": 6, "WriteDisableCmd": 4, "ChipEraseCmd": 96, "ReadStatusCmd": 5, "BusyBit": 0},
+    {"Name": "W25Q16", "Manufacturer": "Winbond", "ChipSize": 2097152, "PageSize": 256, "AddrExtCmd": 0, "AddrSize": 3, "ReadCmd": 3, "PageProgramCmd": 2, "WriteEnableCmd": 6, "WriteDisableCmd": 4, "ChipEraseCmd": 96, "ReadStatusCmd": 5, "BusyBit": 0},
+    {"Name": "W25Q32", "Manufacturer": "Winbond", "ChipSize": 4194304, "PageSize": 256, "AddrExtCmd": 0, "AddrSize": 3, "ReadCmd": 3, "PageProgramCmd": 2, "WriteEnableCmd": 6, "WriteDisableCmd": 4, "ChipEraseCmd": 96, "ReadStatusCmd": 5, "BusyBit": 0},
+    {"Name": "W25Q64", "Manufacturer": "Winbond", "ChipSize": 8388608, "PageSize": 256, "AddrExtCmd": 0, "AddrSize": 3, "ReadCmd": 3, "PageProgramCmd": 2, "WriteEnableCmd": 6, "WriteDisableCmd": 4, "ChipEraseCmd": 96, "ReadStatusCmd": 5, "BusyBit": 0},
+    {"Name": "W25Q128", "Manufacturer": "Winbond", "ChipSize": 16777216, "PageSize": 256, "AddrExtCmd": 0, "AddrSize": 3, "ReadCmd": 3, "PageProgramCmd": 2, "WriteEnableCmd": 6, "WriteDisableCmd": 4, "ChipEraseCmd": 96, "ReadStatusCmd": 5, "BusyBit": 0},
+    {"Name": "W25Q256", "Manufacturer": "Winbond", "ChipSize": 33554432, "PageSize": 256, "AddrExtCmd": 183, "AddrSize": 4, "ReadCmd": 3, "PageProgramCmd": 2, "WriteEnableCmd": 6, "WriteDisableCmd": 4, "ChipEraseCmd": 96, "ReadStatusCmd": 5, "BusyBit": 0},
+    {"Name": "GD25Q128", "Manufacturer": "GigaDevice", "ChipSize": 16777216, "PageSize": 256, "AddrExtCmd": 0, "AddrSize": 3, "ReadCmd": 3, "PageProgramCmd": 2, "WriteEnableCmd": 6, "WriteDisableCmd": 4, "ChipEraseCmd": 96, "ReadStatusCmd": 5, "BusyBit": 0} 
+  ]
+}
